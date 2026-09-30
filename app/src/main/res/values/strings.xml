@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">钓鱼气象助手</string>
+    <string name="action_refresh">重新分析</string>
+    <string name="action_grant_permission">授予定位权限</string>
+    <string name="action_retry">重试</string>
+    <string name="label_location">当前位置</string>
+    <string name="label_weather">实况气象</string>
+    <string name="label_pressure_trend">气压趋势（近 6 小时 + 未来 12 小时）</string>
+    <string name="label_score_factors">评分构成</string>
+    <string name="label_best_window">推荐出钓窗口</string>
+    <string name="label_advice">垂钓建议</string>
+    <string name="permission_title">需要定位权限</string>
+    <string name="permission_message">本应用通过 GPS/网络定位获取你所在位置的实时气压、风向与温度，用于计算钓鱼指数。位置数据仅在本机用于天气查询，不会上传服务器。</string>
+    <string name="permission_rationale">定位权限被拒绝，无法分析当地气象。请点击按钮重新授权。</string>
+</resources>
